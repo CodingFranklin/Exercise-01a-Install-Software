@@ -7,4 +7,4 @@ My github username is:
 
 CodingFranklin
 
-BL-MSCH-C220
+I have installed the software on my laptop.
